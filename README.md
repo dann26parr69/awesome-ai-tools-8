@@ -2145,6 +2145,8 @@ Join 2700+ creators to reach billions of people globally
 
 72. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos. One-time $4.99, no subscription.
 
+
+73. [TinyTools](https://tinytools-smoky.vercel.app/) 👉 Free browser-based AI background remover that runs fully on-device via WebAssembly — no upload, no signup. Also includes OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, and AI robots.txt generator. Open source.
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
