@@ -2012,6 +2012,8 @@ Join 2700+ creators to reach billions of people globally
 124. [PosterStudio](https://posterstudio.ai/) 👉 PosterStudio helps Marketing teams of large enterprise, Small and Medium business owners to create social media advertisements with 0 design skills. All you need to do is mention the messaging of advertisement and posterstudio takes care of everything.
 125. [Icon Craft AI](https://iconcraftai.com/) 👉 Accelerate Your Icon Creation Process: Harness the Power of Our AI Digital Icon Generator for Your Business Website, Applications, and Brand.
 
+126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
